@@ -2,7 +2,7 @@
 
 ...with Next.js and RainbowKit
 
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/169280/211433477-21357044-6297-491e-a7a5-f6ff7782d65e.png">
+<img width="883" alt="image" src="https://user-images.githubusercontent.com/169280/211433592-910e864d-db8d-472c-a7b6-9481cfd100b0.png">
 
 This is a fast, batteries-included way to make an interface to an Ethereum app.
 
